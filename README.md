@@ -21,7 +21,7 @@ This project demonstrates how to build a segmented and loop-free network using V
 
 ## 📸 Topology Diagram
 
-![Network Topology](vlan-lab.png)
+![Network Topology](topology.png)
 
 ## 📎 Included Files
 
